@@ -1,0 +1,17 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 11
+    values:
+      - GeneratedGIFs/Cartoon_Cat_Confused_Scratches_Head.gif
+      - GeneratedGIFs/Cute_Dancing_Poodle_Dog.gif
+      - GeneratedGIFs/Cute_Kitten_Yawning_and_Sleeping.gif
+      - GeneratedGIFs/Cute_Mocha_and_Milk_Bears_Cuddle.gif
+      - GeneratedGIFs/Dwight_Schrute_s_Victory_Celebration.gif
+      - GeneratedGIFs/Evan_the_Dog_is_So_Sleepy.gif
+      - GeneratedGIFs/Man_s_Triumphant_Victory_Reaction.gif
+      - GeneratedGIFs/Minecraft_Dog_Real_Doge_Smiling 2.gif
+      - GeneratedGIFs/Minecraft_Dog_Real_Doge_Smiling.gif
+      - GeneratedGIFs/Silly_Dog_Cheesing_with_a_Hehe_Smile.gif
+      - GeneratedGIFs/Vibrant_Happy_Holi_Festival_Party.gif
+  options: 4
